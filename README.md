@@ -5,10 +5,5 @@
 📫 How to reach me: [farrel.davaa@gmail.com](mailto:farrel.davaa@gmail.com)  
 
 ---
-### 🔧 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
----
 ### 📊 GitHub Stats
 ![Farrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=farreldavaa&show_icons=true&theme=synthwave)
