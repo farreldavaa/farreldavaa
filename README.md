@@ -13,4 +13,4 @@
 
 ---
 ### 📊 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=farreldavaa&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farreldavaa&layout=donut-vertical)](https://github.com/farreldavaa/github-readme-stats)
