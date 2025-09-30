@@ -8,9 +8,7 @@
 ### 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![React](react)
-![Node.js](nodedotjs)
 
 ---
 ### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farreldavaa&layout=donut-vertical)](https://github.com/farreldavaa/github-readme-stats)
+![Farrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=farreldavaa&show_icons=true&theme=synthwave)
